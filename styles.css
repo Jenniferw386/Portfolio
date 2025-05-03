@@ -85,6 +85,11 @@
     font-weight: bold;
     margin: 0 12px;
 }
+.top__logo {
+    height: 40px;
+    width: 50px;
+   
+}
 
 /* ABOUT ME*/
 #about-me {
@@ -296,6 +301,7 @@ footer {
 .footer__link--list {
     margin-bottom: 20px;
     width: 100%;
+    max-width: 800px;
     display: flex;
     justify-content: space-between;
 }
