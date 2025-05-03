@@ -270,3 +270,16 @@ margin: 5px 0;
 .project:hover .project__description {
     opacity: 1;
 }
+
+/* FOOT*/
+
+footer {
+    background-color: rgb(32, 30, 30);
+}
+.logoimg {
+    width: 100px;
+    height: 70px;
+}
+.footer__row {
+    padding: 8% 0;
+}
