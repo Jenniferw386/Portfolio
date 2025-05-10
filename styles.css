@@ -166,11 +166,7 @@
    max-width: 100px;
    transition: ease 100ms;
 }
-.language-img--java {
-    width: 100%;
-    max-width: 100px;
-    transition: ease 100ms;
-}
+
 
 .language-img:hover {
     filter: brightness(80%);
